@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-tortoise-orm
-beautifulsoup4
 requests
+sqlalchemy

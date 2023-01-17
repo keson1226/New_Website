@@ -1,4 +1,4 @@
-web-env
+.venv
 web_for_sever/web_api/__pycache__
 web_for_sever/web_scraping/__pycache__
 web_for_sever/__pycache__
