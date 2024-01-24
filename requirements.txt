@@ -1,4 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 requests
 sqlalchemy
+beautifulsoup4
+pymongo[srv]
